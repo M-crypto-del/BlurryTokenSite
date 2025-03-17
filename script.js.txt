@@ -1,0 +1,6 @@
+document.addEventListener("DOMContentLoaded", function() {
+    const header = document.querySelector("header");
+    setInterval(() => {
+        header.style.filter = blur(${Math.random() * 5}px);
+    }, 1000);
+});

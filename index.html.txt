@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>$Blurry Token – Фанатський символ Blurryface</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>$Blurry Token</h1>
+        <p>Фанатський символ 10-річчя легендарного альбому</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">Про токен</a></li>
+            <li><a href="#features">Чому це унікально?</a></li>
+            <li><a href="#join">Як отримати?</a></li>
+            <li><a href="#community">Спільнота</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>Що таке $Blurry Token?</h2>
+        <p>Це не просто криптовалюта, а фанатський артефакт, що символізує дух *Blurryface*.</p>
+    </section>
+
+    <section id="features">
+        <h2>Чому це унікально?</h2>
+        <ul>
+            <li>✅ Фанатська спадщина – символ боротьби з внутрішніми демонами.</li>
+            <li>✅ Вплив на новини – можливість для голосувань і фанатських ініціатив.</li>
+            <li>✅ Колекційна цінність – через 10 років це стане артефактом фанатської культури.</li>
+        </ul>
+    </section>
+
+    <section id="join">
+        <h2>Як отримати?</h2>
+        <p>Детальна інструкція про купівлю та використання $Blurry Token.</p>
+    </section>
+
+    <section id="community">
+        <h2>Приєднуйся до Skeleton Clique!</h2>
+        <p>Слідкуй за оновленнями в наших соцмережах.</p>
+    </section>
+
+    <footer>
+        <p>© 2025 $Blurry Token. Всі права захищено.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
